@@ -1,0 +1,2 @@
+Select the version you want to use in your game, copy the EFKEFC files and the Texture folder,
+Then paste in your 'effects' project folder.
